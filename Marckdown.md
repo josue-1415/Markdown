@@ -206,24 +206,30 @@ int main(){
 
 ### cargar imagen desde la carpeta local:
 
-> ![Ubuntu](/imagen/Logo-Ubuntu.png "Ubuntu" )
-
-## cargar video desde la web:
-
 <div>
 <p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-</div>
+<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
 </p>
+</div>
+
+# Github marckdown
+
+Listas de checkbox:
+<!--tareas no realizadas-->
+* [ ] Tarea 1
+* [ ] Tarea 2
+* [ ] Tarea 3
+<!--tareas realizadas-->
+* [x] Tarea 1
+* [x] Tarea 2
+* [x] Tarea 3
+
+# Texto matemático LaTeX en marckdown
+
+$$ \textup{La serie geométrica }\sum_{k=0}^\infty \frac{e^{3k+1}}{k\ln 2}$$
 
 
-
-
-
-
-
-
-
+```latex    
+$$ \textup{La serie geométrica }\sum_{k=0}^\infty \frac{e^{3k+1}}{k\ln 2}$$
+```
 
